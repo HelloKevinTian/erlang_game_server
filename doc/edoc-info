@@ -1,4 +1,0 @@
-%% encoding: UTF-8
-{application,gate}.
-{packages,[]}.
-{modules,[gate_app,gate_sup,tcp_acceptor,tcp_listener]}.
