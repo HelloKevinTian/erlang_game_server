@@ -1,0 +1,12 @@
+.eunit
+deps
+*.o
+*.beam
+*.plt
+erl_crash.dump
+ebin
+rel/tcp_server
+.concrete/DEV_MODE
+.rebar
+logs
+*.log
