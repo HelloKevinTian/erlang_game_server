@@ -3,15 +3,15 @@
 -export([init/0, get_all/0, get_common/0, get_activity/0]).
 
 init() ->
-	todo.
+	todo;
 
-get_all() ->
-	todo.
+get(all) ->
+	todo;
 
-get_common() ->
-	todo.
+get(common) ->
+	todo;
 
-get_activity() ->
+get(activity) ->
 	todo.
 
 
